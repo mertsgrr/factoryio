@@ -10,7 +10,7 @@ Latest generation of programming and maintenance software offered by Mitsubishi 
 
 <h3>Factory IO</h3>
 <ul>
-<li>Go to <strong>Documents/Factory IO/My Scenes</strong> and copy the <strong><font color="red">StartStopConveyor.factoryio</font></strong> file there</li>
+<li>Go to <strong>Documents/Factory IO/My Scenes</strong> and copy the <strong><font color='red'>StartStopConveyor.factoryio</font></strong> file there</li>
 <li>Open <strong>Factory IO</strong></li>
 <li>Click the <strong>Scenes</strong> menu</li>
 <li>Open the scene you just added from <strong>My Scenes</strong></li>
