@@ -16,9 +16,6 @@ Latest generation of programming and maintenance software offered by Mitsubishi 
   <li>Open the scene you just added from <strong>My Scenes</strong></li>
 </ul>
 
-<br>
-<br>
-
 <h3>MX OPC Configurator</h3>
 <ul>
   <li>Open <strong>MX OPC Configurator</stong></li>
