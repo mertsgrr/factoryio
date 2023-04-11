@@ -1,4 +1,4 @@
-# Mitsubishi GX Works 3 Conveyor and Sensor control project
+# MELSEC GX Works 3 Conveyor and Sensor control project
 
 <img src="https://drive.google.com/uc?export=view&id=1vnKKPSc7y49XuTwCEOd8DT1Yd6Qp5KGc"> Factory IO<br>
 3D factory simulation for automation technologies. Allows to build a virtual factory using a selection of common industrial parts.
